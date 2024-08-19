@@ -1,0 +1,4 @@
+{
+  "name": "Switch development environment",
+  "build": { "dockerfile": "Dockerfile" }
+}
